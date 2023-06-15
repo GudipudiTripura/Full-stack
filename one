@@ -1,1 +1,22 @@
-hii hlo
+React -  Javascript library
+
+Library:
+   Libraries provide developers with predefined functions and classes to make their work easier and boost the development process. 
+Framework:
+   Framework, on the other hand, is like the foundation upon which developers build applications for specific platforms.
+ 
+  For Checking whether nodejs is installed or not : node -v or node --version
+
+Commands for vscode terminal:
+   npx create-react-app filename  (it will throw a warning if you are not running the latest version. follow the instructions and uninstall ,next again run the command ).
+
+
+Components :  all he parts which want to reuse 
+Paths      :  all the different paths
+
+Router is a package -> which routes the url 
+
+if the nodemodulas get deleted just bring them back with npm i
+ 
+ 
+    
